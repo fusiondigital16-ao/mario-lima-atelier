@@ -1,0 +1,362 @@
+{
+  "library": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/library",
+    "galleryTotal": 8,
+    "images": [
+      {
+        "file": "library-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_a33339ca8bb44053b4c7d7500341de5c~mv2.jpg",
+        "alt": "Street view",
+        "caption": "Street view",
+        "width": 1010,
+        "height": 551
+      },
+      {
+        "file": "library-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_a9feb538773e44ec955aa886ddfa3e13~mv2.jpg",
+        "alt": "Top view",
+        "caption": "Top view",
+        "width": 1141,
+        "height": 685
+      },
+      {
+        "file": "library-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_849f649e51124761afaa2d83781ba638~mv2_d_3360_1728_s_2.jpg",
+        "alt": "Elevation",
+        "caption": "Elevation",
+        "width": 3360,
+        "height": 1728
+      }
+    ]
+  },
+  "vareseurban": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/vareseurban",
+    "galleryTotal": 9,
+    "images": [
+      {
+        "file": "vareseurban-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_7b53724fa4dc42a78dd3f3afc4d3f172.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1772,
+        "height": 1086
+      },
+      {
+        "file": "vareseurban-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_6b904f4f897c45a7a888f3f52105f99f.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2732,
+        "height": 1836
+      },
+      {
+        "file": "vareseurban-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_93440c60731d4014b3a103feed90791f.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3942,
+        "height": 2453
+      }
+    ]
+  },
+  "twohouses": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/twohouses",
+    "galleryTotal": 14,
+    "images": [
+      {
+        "file": "twohouses-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_177f57fd32264ab887a4b3f720006fef.jpg",
+        "alt": "Living areas",
+        "caption": "Living areas",
+        "width": 1181,
+        "height": 775
+      },
+      {
+        "file": "twohouses-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_6f7dc251f8e6477980ee4fa778f6e956.jpg",
+        "alt": "Living areas",
+        "caption": "Living areas",
+        "width": 900,
+        "height": 591
+      },
+      {
+        "file": "twohouses-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_92b196dbcbb94d35ba310f475900331d.jpg",
+        "alt": "Bedrooms floor",
+        "caption": "Bedrooms floor",
+        "width": 897,
+        "height": 591
+      }
+    ]
+  },
+  "varesetheater": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/varesetheater",
+    "galleryTotal": 10,
+    "images": [
+      {
+        "file": "varesetheater-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_ff9c1f452c7b4e3f8cbe6f61a6af9a72.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2480,
+        "height": 1708
+      },
+      {
+        "file": "varesetheater-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_f4e3f401e0be44eb9ef377139f245aa6.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1181,
+        "height": 835
+      },
+      {
+        "file": "varesetheater-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_287330958134470f8e547367e1566fe9.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3476,
+        "height": 2118
+      }
+    ]
+  },
+  "2demaiosquare": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/2demaiosquare",
+    "galleryTotal": 7,
+    "images": [
+      {
+        "file": "2demaiosquare-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_4f6a754b892c4e91a8f4a4889ff8bb2c.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1772,
+        "height": 1109
+      },
+      {
+        "file": "2demaiosquare-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_56cb0c3368ef4360b6e4cede37d20c1b.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1181,
+        "height": 827
+      },
+      {
+        "file": "2demaiosquare-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_0b16972677244664a4b9d1f6e819f29c.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2353,
+        "height": 1243
+      }
+    ]
+  },
+  "boatharbourhouse": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/boatharbourhouse",
+    "galleryTotal": 13,
+    "images": [
+      {
+        "file": "boatharbourhouse-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_ccb7a9106343417b8a8a411efef127c7.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2354,
+        "height": 1253
+      },
+      {
+        "file": "boatharbourhouse-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_4f161ad81f7a4fd5aac3503da005d902.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1181,
+        "height": 611
+      },
+      {
+        "file": "boatharbourhouse-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_62085ec9f9144eba9421143d99c5b635.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1181,
+        "height": 709
+      }
+    ]
+  },
+  "houseoffairytales": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/houseoffairytales",
+    "galleryTotal": 11,
+    "images": [
+      {
+        "file": "houseoffairytales-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_2576d59dfe2d4a6bbd114593449cd0e7.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1134,
+        "height": 692
+      },
+      {
+        "file": "houseoffairytales-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_8934278cac174cecad866ae8d68abfdb.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1701,
+        "height": 1125
+      },
+      {
+        "file": "houseoffairytales-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_fd495eef09a04f05bd4af8e30312952e.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1181,
+        "height": 705
+      }
+    ]
+  },
+  "ecodistrict": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/ecodistrict",
+    "galleryTotal": 12,
+    "images": [
+      {
+        "file": "ecodistrict-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_74e516a5e8074ff1b193cb2124522d37.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2480,
+        "height": 1323
+      },
+      {
+        "file": "ecodistrict-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_78338660d16547deb71e9443eff19015.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2600,
+        "height": 1500
+      },
+      {
+        "file": "ecodistrict-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_ebf3d8e1b1a94229992ccff6d9922039.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 4235,
+        "height": 2338
+      }
+    ]
+  },
+  "asiento4sol": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/asiento4sol",
+    "galleryTotal": 4,
+    "images": [
+      {
+        "file": "asiento4sol-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_6038fe224632406ca6d74e88f8091844.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3000,
+        "height": 1899
+      },
+      {
+        "file": "asiento4sol-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_d219bee326564ad7b982545fd68f68e7.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3984,
+        "height": 2150
+      },
+      {
+        "file": "asiento4sol-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_ef54b3849d1740d78ea031f710041cc1.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3965,
+        "height": 2309
+      }
+    ]
+  },
+  "overlaidcity": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/overlaidcity",
+    "galleryTotal": 10,
+    "images": [
+      {
+        "file": "overlaidcity-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_00d1f11792554ee8a72f5a1ef0a848bd.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1034,
+        "height": 623
+      },
+      {
+        "file": "overlaidcity-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_f36fffefe6dc49a4a596cfdb16706ca2.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1310,
+        "height": 760
+      },
+      {
+        "file": "overlaidcity-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_33611e2c1a79433ca232e7e790399b92.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 3621,
+        "height": 2147
+      }
+    ]
+  },
+  "setuballibrary": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/setuballibrary",
+    "galleryTotal": 7,
+    "images": [
+      {
+        "file": "setuballibrary-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_8dc0c47ad07d49a396f4b5ad6fb9d514.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1600,
+        "height": 1066
+      },
+      {
+        "file": "setuballibrary-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_dad9b18528bb4c1bbe062e1b1131fd86.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 885,
+        "height": 591
+      },
+      {
+        "file": "setuballibrary-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_69e73b32e3204773a041f67ad028741c.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 4941,
+        "height": 3184
+      }
+    ]
+  },
+  "wasteequipment": {
+    "sourcePage": "https://mariolima15.wixsite.com/mariolima/wasteequipment",
+    "galleryTotal": 4,
+    "images": [
+      {
+        "file": "wasteequipment-01.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_08d3eda06c8c43e0a46e96916d830715.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2884,
+        "height": 1729
+      },
+      {
+        "file": "wasteequipment-02.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_827b782fe2e34d988f49aa9c73d78edc.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2458,
+        "height": 1514
+      },
+      {
+        "file": "wasteequipment-03.jpg",
+        "sourceUrl": "https://static.wixstatic.com/media/5ea119_ce4267738af84d3e90977210c58237db.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 2921,
+        "height": 1716
+      }
+    ]
+  }
+}
